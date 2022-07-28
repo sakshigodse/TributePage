@@ -1,0 +1,47 @@
+body{
+    padding: 30px;
+    font-family: Times New Roman;
+    font-size:  18px; 
+   
+}
+.main{
+    border: 5px solid #000;
+    padding:40px;
+    background: burlywood;
+}
+h1 , h2, h3{
+    text-align: center;
+}
+.image{
+    text-align: center;
+    background-color: #000;
+    border: 2px solid #000;
+    padding: 30px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.image p{
+    color: white;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.image p:hover{
+    color:aqua;
+    font-size: 20px;
+}
+.bio{
+    padding: 10px;
+}
+.bio p {
+    padding-left: 14%;
+    padding-right: 14%;
+    text-align: justify;
+}
+.bio hr{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#demo{
+    margin-left: 350px;
+}
